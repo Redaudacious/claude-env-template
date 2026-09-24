@@ -1,0 +1,32 @@
+# The project's work items
+
+A work item is a piece of work with a written spec and plan. It sits in a folder, in
+`open/` while it is open and in `closed/` after: `README.md` for humans, the spec, the
+plans and, at closing, `closing.md`.
+
+The index is the only part of the record that is rewritten. The checkboxes in the plans
+stay unchecked: the state sits here.
+
+A work item is closed only when every leftover has a destination: done, abandoned with
+the reason written down, or put in the backlog. The forms are in the `documentation`
+skill, at `references/details.md`.
+
+## In progress
+
+| Date | The work item | Where it got to |
+|---|---|---|
+
+## Not started
+
+| Date | The work item | What exists |
+|---|---|---|
+
+## Backlog
+
+| From | What | Where it comes from |
+|---|---|---|
+
+## Closed
+
+| Date | The work item | State | Leftovers |
+|---|---|---|---|
